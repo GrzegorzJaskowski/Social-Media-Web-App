@@ -1,28 +1,27 @@
-# Create T3 App
+# Social media app created with T3 stack
+App with layout similar to Twitter, allowing to post emojis.
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+## Usage
++ Visit app deployed on Vercel [here](https://t3-stack-testing-neua.vercel.app/)
++ Sign in with GitHub account
++ Enjoy the app
 
-## What's next? How do I make an app with this?
+## Functionalities
++ Post emojis
+![t3_1](https://user-images.githubusercontent.com/80793909/230734856-4ce55cc7-7175-4c70-8ba5-fdda91e4c68d.png)
++ Profile view
+![t3_2](https://user-images.githubusercontent.com/80793909/230734858-fe5dd001-7d5c-4ae9-aaaf-e1bf7915597e.png)
++ Post view
+![t3_3](https://user-images.githubusercontent.com/80793909/230734862-8a820159-c377-4a7f-b37b-a612f852a079.png)
++ Input verification and custom errors
+![t3_4](https://user-images.githubusercontent.com/80793909/230734863-a351c95b-f4f6-45c4-87b0-47b80064d741.png)
++ Upstash rate limiter
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
-
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
-
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
-
-## Learn More
-
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
-
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+## Used techonologies
++ Next.js
++ NextAuth.js
++ Prisma
++ Tailwind CSS
++ tRPC
++ React Hot Toast
++ Zod
